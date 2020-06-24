@@ -42,7 +42,10 @@
 | --- | --- | --- |
 | Python 语言 | Python Crash Course, 2nd Edition [Amazon](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?crid=2UQKDUERI787R&dchild=1&keywords=python+crash+course&qid=1592815039&sprefix=python+crash%2Caps%2C201&sr=8-1) | 书籍 |
 | | Automate the Boring Stuff with Python, 2nd Edition [Amazon](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1?crid=3T93PNJC9WLSH&dchild=1&keywords=automate+the+boring+stuff+with+python&qid=1592894089&sprefix=automate%2Caps%2C208&sr=8-1) <br/>[第二版英文原版内容线上版本](https://automatetheboringstuff.com/2e/) | 书籍 |
+| | Introducing Python [Amazon](https://www.amazon.com/Introducing-Python-Modern-Computing-Packages/dp/1492051365/ref=sr_1_1?dchild=1&keywords=Introducing+Python&qid=1593034272&sr=8-1) | 书籍 |
+| | Fluent Python [Amazon](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?dchild=1&keywords=Fluent+Python&qid=1593034574&sr=8-1) | 书籍 |
 | C++ | C++ Primer [Amazon](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?dchild=1&keywords=C%2B%2B+Primer&qid=1592895269&sr=8-1) | 书籍 |
+| | C++ Crash Course [Amazon](https://www.amazon.com/C-Crash-Course-Josh-Lospinoso/dp/1593278888/ref=sr_1_1?dchild=1&keywords=C%2B%2B+Crash+Course&qid=1593034061&sr=8-1) | 书籍 |
 | 程序运行底层 & C | [CS107：Computer Organization & Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1206/index.html) | 斯坦福公开课 |
 | 微积分 | 托马斯微积分 | 书籍 |
 | | 普林斯顿微积分读本 | 书籍 | 
@@ -62,6 +65,7 @@
 | | 算法设计手册 [Springer](https://link.springer.com/book/10.1007/978-1-84800-070-4) [PDF](downloads/2008_Book_TheAlgorithmDesignManual.pdf) | 书籍 |
 | 操作系统基础 | Operating Systems: Three Easy Pieces [Amazon](https://www.amazon.com/Operating-Systems-Three-Easy-Pieces/dp/198508659X/ref=sr_1_1?dchild=1&keywords=Operating+Systems%3A+Three+Easy+Pieces&qid=1592936154&sr=8-1) <br/> [在线阅读](http://pages.cs.wisc.edu/~remzi/OSTEP/) | 书籍 |
 | | [CS140：Operating Systems](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php) | 斯坦福公开课 |
+| | CSAPP [Amazon](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/ref=sr_1_1?crid=2QWJ6MII3OH8A&dchild=1&keywords=computer+systems+a+programmer%27s+perspective%2C+third+edition&qid=1593034803&sprefix=Computer+Sys%2Caps%2C279&sr=8-1) | 书籍 |
 | 数据库基础 | SQL 必知必会 [Amazon](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073/ref=sr_1_2?dchild=1&keywords=SQL&qid=1592936262&sr=8-2) | 书籍 |
 | | [SQLZoo](https://sqlzoo.net/) | 在线练习 |
 | | [SQLBolt](https://sqlbolt.com/) | 在线练习 |
@@ -85,6 +89,7 @@
 | | Hands-On Machine Learning [Amazon](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=2LAYAPBMAIC92&dchild=1&keywords=machine+learning&qid=1592817718&sprefix=machine+%2Caps%2C201&sr=8-1) | 书籍 |
 | | 机器学习（西瓜书） | 书籍 |
 | | 机器学习导引 | 书籍 |
+| 数据科学 | Python for Data Analysis [Amazon](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?dchild=1&keywords=wrangle+data+science&qid=1593035055&sr=8-2) | 书籍 |
 | 凸优化 | [EE364a: Convex Optimization I](http://web.stanford.edu/class/ee364a/) | 斯坦福公开课 |
 | 概率图模型 | [CS 228: Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228/index.html) | 斯坦福公开课 |
 | | [Coursera: Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models) | Coursera 课程 |
@@ -127,11 +132,30 @@
 
 相较而言，国外最新版已经是第二版了。国外亚马逊链接：[这里](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?crid=2UQKDUERI787R&dchild=1&keywords=python+crash+course&qid=1592815039&sprefix=python+crash%2Caps%2C201&sr=8-1)。
 
+<br/>
+
 另外，在掌握了 Python 基础语法以后，对于 Python 的应用，有一本经典的书籍，近乎是必看的。我在我的公众号[《开源分享第三期》](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247484912&idx=2&sn=8e2dd091697d184f6d495fcf708698f8&chksm=fd8caab6cafb23a000be6171f1a813aa3403d02d4528a42ab3f385dee93862e8bda40775b159&token=350451291&lang=zh_CN#rd)中分享过，就是这本：
 
 ![python2](src/python2.jpg)
 
 但是这本书的英文原版也已经有第二版了，国内引进的还是第一版。如果英文好的同学，可以直接看第二版。关键是，第二版的内容，官方现在可以直接在网上[免费浏览](https://automatetheboringstuff.com/2e/)！
+
+<br/>
+
+Orelly 的一本 Python 书也值得推荐：Introducing Python。我的读者在我的公众号下留言：这本书进度更快，并且覆盖decorator(装饰器)、property等python中等水平特性。
+
+![python3](src/python3.png)
+
+亚马逊链接：[这里](https://www.amazon.com/Introducing-Python-Modern-Computing-Packages/dp/1492051365/ref=sr_1_1?dchild=1&keywords=Introducing+Python&qid=1593034272&sr=8-1)。
+
+<br/>
+
+关于 Python 语言进阶，最著名的应该就是这本了：Fluent Python
+
+![python4](src/python4.png)
+
+亚马逊链接：[这里](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?dchild=1&keywords=Fluent+Python&qid=1593034574&sr=8-1)。
+
 
 当然，Python 深入下去还有很多好的资源推荐。由于这篇文章重点不是 Python，所以点到为止。
 
@@ -146,6 +170,14 @@
 ![cpp](src/cpp.png)
 
 亚马逊链接在[这里](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?dchild=1&keywords=C%2B%2B+Primer&qid=1592895269&sr=8-1)。
+
+<br/>
+
+如果有些同学觉得 C++ Primer 太“古董”，可以看这本 C++ Crash Course。这本书是 2019 年出的，出版社 No Starch 也名声在外。同时兼顾了 C++17 的最新特性。
+
+![cppcrash](src/cppcrash.png)
+
+亚马逊链接在[这里](https://www.amazon.com/C-Crash-Course-Josh-Lospinoso/dp/1593278888/ref=sr_1_1?dchild=1&keywords=C%2B%2B+Crash+Course&qid=1593034061&sr=8-1)。
 
 <br/>
 
@@ -297,6 +329,14 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 <br/>
 
+关于操作系统，进一步引申至计算机原理层面，比如组成原理等相关内容，虽然上面我说，个人认为专门学习人工智能并不需要专门掌握，但是如果感兴趣的同学，还是有一门很经典的书推荐一读的，就是大名鼎鼎的 CSAPP：Computer Systems: A Programmer's Perspective
+
+![csapp](src/csapp.png)
+
+亚马逊链接在[这里](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/ref=sr_1_1?crid=2QWJ6MII3OH8A&dchild=1&keywords=computer+systems+a+programmer%27s+perspective%2C+third+edition&qid=1593034803&sprefix=Computer+Sys%2Caps%2C279&sr=8-1)。
+
+<br/>
+
 **3. 数据库基础**
 
 做人工智能需要处理大量的数据，这就需要使用数据库，了解数据库的基础。同时，这本质也是在学习“数据模型”这个概念，了解数据存储的设计方案。
@@ -434,7 +474,15 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**2. 凸优化**
+**2. 数据科学基础**
+
+其实，数据科学和基础的机器学习算法的应用有很多重合的地方。在这里，想强调一点，对于使用 Python 做机器学习，有一些基础的库需要大家熟练了解，主要就是 numpy，pandas，包括大家如果做可视化的话，需要使用 matplotlib。对于这些内容的学习，推荐一本书：Python for Data Analysis
+
+![ds](ds.png)
+
+<br/>
+
+**3. 凸优化**
 
 学习了机器学习，大家就会知道，大多数机器学习方法都是要求解一个最优函数。其中就需要的一个相对比较专门的数学基础：凸优化。
 
@@ -446,7 +494,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**3. 概率图模型**
+**4. 概率图模型**
 
 概率图模型也是深入理解很多人工智能方法的利器，在图像识别，自然语言处理领域都有非常多的应用。我研究生时期的毕业课题，是做虚拟动作识别，也需要使用概率图模型。
 
@@ -464,7 +512,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**4. 数据挖掘**
+**5. 数据挖掘**
 
 数据挖掘主要是对大规模数据进行处理的。在数据的聚类分析，大规模的监督学习，包括推荐系统等领域，都有广泛应用。
 
