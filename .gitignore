@@ -25,20 +25,3 @@ Thumbs.db
 ##########################
 *.iml
 .idea/
-
-##########################
-# PPT                    #
-##########################
-ppt/
-*.pdf
-
-##########################
-# Others                 #
-##########################
-imooc-columns/
-series/
-others/
-qrcode/
-ideas.md
-course-introduction/
-*.psd

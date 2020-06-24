@@ -34,7 +34,7 @@
 | --- | --- | --- |
 | Python 语言 | Python Crash Course, 2nd Edition [Amazon](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?crid=2UQKDUERI787R&dchild=1&keywords=python+crash+course&qid=1592815039&sprefix=python+crash%2Caps%2C201&sr=8-1) | 书籍 |
 | | Automate the Boring Stuff with Python, 2nd Edition [Amazon](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1?crid=3T93PNJC9WLSH&dchild=1&keywords=automate+the+boring+stuff+with+python&qid=1592894089&sprefix=automate%2Caps%2C208&sr=8-1) <br/>[第二版英文原版内容线上版本](https://automatetheboringstuff.com/2e/) | 书籍 |
-| C++ | C++ Primer [Amazon](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?dchild=1&keywords=C%2B%2B+Primer&qid=1592895269&sr=8-1) |
+| C++ | C++ Primer [Amazon](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?dchild=1&keywords=C%2B%2B+Primer&qid=1592895269&sr=8-1) | 书籍 |
 | 程序运行底层 & C | [CS107：Computer Organization & Systems](https://web.stanford.edu/class/archive/cs/cs107/cs107.1206/index.html) | 斯坦福公开课 |
 | 微积分 | 托马斯微积分 | 书籍 |
 | | 普林斯顿微积分读本 | 书籍 | 
@@ -50,7 +50,7 @@
 
 | | | |
 | --- | --- | --- |
-| 算法与数据结构 | 算法4 [Amazon]() | 书籍 |
+| 算法与数据结构 | 算法4 [Amazon](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?dchild=1&keywords=algorithm&qid=1592939552&sr=8-1) | 书籍 |
 | | 算法设计手册 [Springer](https://link.springer.com/book/10.1007/978-1-84800-070-4) [PDF](downloads/2008_Book_TheAlgorithmDesignManual.pdf) | 书籍 |
 | 操作系统基础 | Operating Systems: Three Easy Pieces [Amazon](https://www.amazon.com/Operating-Systems-Three-Easy-Pieces/dp/198508659X/ref=sr_1_1?dchild=1&keywords=Operating+Systems%3A+Three+Easy+Pieces&qid=1592936154&sr=8-1) <br/> [在线阅读](http://pages.cs.wisc.edu/~remzi/OSTEP/) | 书籍 |
 | | [CS140：Operating Systems](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php) | 斯坦福公开课 |
@@ -76,6 +76,7 @@
 | | [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice) | Coursera 课程 |
 | | Hands-On Machine Learning [Amazon](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=2LAYAPBMAIC92&dchild=1&keywords=machine+learning&qid=1592817718&sprefix=machine+%2Caps%2C201&sr=8-1) | 书籍 |
 | | 机器学习（西瓜书） | 书籍 |
+| | 机器学习导引 | 书籍 |
 | 凸优化 | [EE364a: Convex Optimization I](http://web.stanford.edu/class/ee364a/) | 斯坦福公开课 |
 | 概率图模型 | [CS 228: Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228/index.html) | 斯坦福公开课 |
 | | [Coursera: Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models) | Coursera 课程 |
@@ -246,7 +247,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 ![algo](algo4.png)
 
-亚马逊链接在[这里]()。
+亚马逊链接在[这里](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?dchild=1&keywords=algorithm&qid=1592939552&sr=8-1)。
 
 《算法4》其实也有不少缺点，找时间我专门写文章聊一聊。但是在这篇文章，大家可以注意两点。
 
@@ -254,23 +255,35 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 第二点，就是《算法4》偏经典的算法和数据结构的底层实现，而在算法设计方面介绍得很少。所以，就有了我推荐的第二个资源：《算法设计手册》。
 
-![algoman](algoman.png)
+![algoman](src/algoman.png)
 
-这本书更偏向算法设计，我认为和《算法4》能形成一个很好地互补。值得一提的是，这本书的英文原版正版，现在在国外是免费下载的。
+这本书更偏向算法设计，我认为和《算法4》能形成一个很好的互补。
 
-![algoman2](algoman2.png)
+我一查才知道，这本书似乎国内没有引进中文版？但依然是，由于疫情原因，这本书的英文原版正版现在在国外是免费下载的。传送门：
+
+![algoman2](src/algoman2.png)
 
 传送门：[https://link.springer.com/book/10.1007/978-1-84800-070-4](https://link.springer.com/book/10.1007/978-1-84800-070-4)
+
+因为可以免费下载，所以我直接把这本书的 PDF 放在这个代码仓下了。大家可以在这里直接[下载](downloads/2008_Book_TheAlgorithmDesignManual.pdf)。
 
 <br/>
 
 **2. 操作系统基础**
 
-操作系统也属于计算机专业的必修课程。这不仅仅是因为我们需要了解操作系统的很多低层级制，更重要的是，我们要借此训练很多系统设计（System Design）的理念。
+操作系统也属于计算机专业的必修课程。这不仅仅是因为我们需要了解操作系统的很多底层机制，更重要的是，我们可以借此学习很多系统设计（System Design）方面的理念。
 
-操作系统方面也有很多经典教材。不过在这里，我推荐斯坦福的 CS140：Operating Systems。
+要知道，一个人工智能应用，也是一个系统。在系统设计开发层面，很多东西是共通的。
 
-![os](os.png)
+操作系统方面也有很多经典教材。如果推荐书的话，我推荐这本《Operating Systems: Three Easy Pieces》
+
+![osbook](src/osbook.png)
+
+不过这本书貌似也没有引进中文版。但是英文版是可以免费在线浏览的。传送门：[http://pages.cs.wisc.edu/~remzi/OSTEP/](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+关于视频课程，我推荐斯坦福的课程 CS140：Operating Systems。
+
+![os](src/os.png)
 
 传送门：[http://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)
 
@@ -278,11 +291,31 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 **3. 数据库基础**
 
-做人工智能需要处理大量的数据，操作这些数据需要大家了解数据库的基础。同时，学习数据库，本质也是在学习“数据模型”，了解数据存储的设计方案，等等。
+做人工智能需要处理大量的数据，这就需要使用数据库，了解数据库的基础。同时，这本质也是在学习“数据模型”这个概念，了解数据存储的设计方案。
 
-数据库方面的经典教材也不要太多。在这篇文章，我推荐斯坦福大学的 CS145：Data Management and Data Systems。
+数据库方面的经典教材也很多。如果只是简单学习 SQL 语言的话，我认为《SQL必知必会》最实用。我曾经推荐这本书给某个同学，这名同学两周的时间，不但刷完了这本书，还把 Leetcode 上所有数据库相关的问题都给做了。
 
-![cs145](cs145.png)
+![sql](src/sql.png)
+
+亚马逊链接在[这里](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073/ref=sr_1_2?dchild=1&keywords=SQL&qid=1592936262&sr=8-2)
+
+<br/>
+
+另外，有两个在线学习 SQL 的网站，挺有名的。有兴趣的同学可以尝试。
+
+一个叫 [SQLZoo](https://sqlzoo.net/)。
+
+![sqlzoo](src/sqlzoo.png)
+
+另一个叫 [SQLBolt](https://sqlbolt.com/):
+
+![sqlbolt](src/sqlbolt.png)
+
+<br/>
+
+当然了，关于数据库，如果追求的并不仅仅是使用 SQL 的话，我推荐学习斯坦福大学的课程 CS145：Data Management and Data Systems。
+
+![cs145](src/cs145.png)
 
 传送门：[https://cs145-fa19.github.io/](https://cs145-fa19.github.io/)
 
@@ -290,11 +323,16 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 **4. 并行计算基础**
 
-我上学的年代，并行计算还不是计算机专业必学的内容。但现在，并行计算已经无处不在了，计算机专业的同学已经是必学并行计算了。
+我上学的年代，并行计算还不是计算机专业必学的内容。但现在，并行计算已经无处不在了。时代发展太快了，计算机专业的同学已经必学并行计算了。
 
-在这篇文章中，我推荐斯坦福大学的 CS149：PARALLEL COMPUTING
+关于并行计算，分布式系统相关的入门书籍，有一本非常著名。也有中文版，叫《数据密集型应用系统设计》
 
-![cs149](cs149.png)
+![diaa](src/diaa.png)
+
+亚马逊链接在[这里](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+
+如果对课程资料感兴趣，我推荐斯坦福大学的课程 CS149：PARALLEL COMPUTING
+![cs149](src/cs149.png)
 
 传送门：[http://cs149.stanford.edu/fall19/](http://cs149.stanford.edu/fall19/)
 
@@ -302,75 +340,99 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 **5. 人工智能基础**
 
-作为一个人工智能专业的学习路径，终于出现人工智能了！
+作为一个人工智能专业的学习路径，终于出现人工智能啦！
 
-在这里，我首先推荐大家泛泛地理解一下人工智能。
+在这里，我首先推荐大家整体性地了解人工智能这个领域。
 
-什么叫泛泛地理解？因为现在说到人工智能，很多同学就会直接想到机器学习或者深度学习。但其实，机器学习和深度学习只是人工智能的一个子领域而已。
+什么叫整体地了解？因为现在说到人工智能，很多同学就会直接想到机器学习或者深度学习。但其实，机器学习和深度学习只是人工智能的一个子领域而已。
 
-与此同时，有很多同学都问过我，想了解诸如 A* 算法，遗传算法，模拟退火，蚁群算法等等相关的算法，应该看什么？其实，这类算法都是人工智能算法，只不过在现阶段，相比机器学习的算法，这些算法的成绩不够耀眼。
+与此同时，有很多同学都问过我，想了解诸如 A* 算法，遗传算法，模拟退火，蚁群算法等等这类的算法，应该看什么？其实，这类算法都是人工智能算法，只不过在现阶段，相比机器学习的算法，这些算法的成绩不够“耀眼”。
 
-但是，如果深入了解人工智能，我认为这些算法也是需要学习的。要知道，神经网络其实在十年前，也是人工智能领域不够“耀眼”的思想之一，静静地躺在角落里。谁知道再过十年，那种思想会得到突破，突然爆发起来呢。
+但是，如果深入了解人工智能，我认为这些算法也是需要学习的。要知道，神经网络其实在十几年前，也是人工智能领域不够“耀眼”的思想之一，静静地躺在角落里，直到最近有了巨大的突破，风靡于世。谁知道再过十年，哪种思想会突然有所突破，爆发起来呢？
 
-关于这个主题的学习，人工智能领域最经典的教材，就是这本了：
+关于整体性地了解人工智能，最经典的教材，就是这本了：
 
-![ai](ai.png)
+![ai](src/ai.png)
+
+亚马逊链接在[这里](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_2?crid=DUVUAHSCTLKO&dchild=1&keywords=artificial+intelligence+a+modern+approach&qid=1592936849&s=books&sprefix=artificial+intelligence+a+%2Cstripbooks-intl-ship%2C201&sr=1-2)
 
 但是，这本书是一个大部头，细细啃一遍太花时间了。我建议配合一个视频课程看。比如，斯坦福大学的 CS221: Artificial Intelligence: Principles and Techniques
 
-![cs221](cs221.png)
+![cs221](src/cs221.png)
 
 传送门：[https://stanford-cs221.github.io/spring2020/](https://stanford-cs221.github.io/spring2020/)
 
-或者，EdX 上有一门课程，我学过，是以这本书为纲的，我觉得挺不错的。
+或者，EdX 上有一门课程，我学过，是以这本书为纲的，我觉得挺不错的。可以免费试听。
 
-![aiedx](aiedx.png)
+![aiedx](src/aiedx.png)
 
 传送门：[https://www.edx.org/course/artificial-intelligence-ai](https://www.edx.org/course/artificial-intelligence-ai)
 
 <br/>
 
-**第三年：机器学习**
+#### 第三年：机器学习
 
-现在，是时候深入学习现在在人工智能领域最主流的方法：机器学习和深度学习了。
+现在，是时候深入学习当下人工智能领域最主流的方法：机器学习和深度学习了。
 
-**1. 机器学习**
+<br/>
+
+**1. 机器学习 + 深度学习**
 
 机器学习领域最著名的课程，就是斯坦福大学的 CS229 了。Andrew Ng 在 Coursera 上大名鼎鼎的《机器学习》课程，就是这门 CS 229 的简化。
 
 斯坦福大学的 CS 229，比 Coursera 上的课程更加深入，内容也更丰富。不过现在，已经不是 Andrew Ng 讲了。
 
-![cs229](cs229.png)
+![cs229](src/cs229.png)
 
 传送门：[http://cs229.stanford.edu/](http://cs229.stanford.edu/)
 
 <br/>
 
-当然，说到了 Andrew Ng，就要说他在 Coursera 上的一系列课程，在这个阶段都可以看一看。
+当然，说到了 Andrew Ng，就要说说他在 Coursera 上的一系列课程，在这个阶段都可以看一看。
 
-包括著名的 Machine Learning。这名课程的 logo 使用的这个小机器人都快成机器学习领域的吉祥物了。
+最著名的当属 Machine Learning。这名课程的 logo 使用的这个小机器人，都快成机器学习领域的吉祥物了。
 
-![courseraml](courseraml.png)
+![courseraml](src/courseraml.png)
 
 传送门：[https://www.coursera.org/learn/machine-learning?](https://www.coursera.org/learn/machine-learning?)
 
 <br/>
 
-以及 Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设的深度学习系列课程 
+Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个深度学习的系列课程，也值得学习。 （虽然使用的 tf 版本有点儿老。）
 
-![courseradl](courseradl.png)
+![courseradl](src/courseradl.png)
 
 传送门：[https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
 
 <br/>
 
+对于书籍，我推荐 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems。
+
+![handson_ml](src/handson_ml.png)
+
+亚马逊链接在[这里](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=2LAYAPBMAIC92&dchild=1&keywords=machine+learning&qid=1592817718&sprefix=machine+%2Caps%2C201&sr=8-1)
+
+这本书国内有引进，但是国内引进的是第一版，现在国外最新版本已经是第二版了。
+
+![handson_ml2](src/handson_ml2.png)
+
+不过这本书偏实战。如果对偏理论感兴趣的同学，当然就推荐西瓜书啦。
+
+![watermelon](src/watermelon.png)
+
+最近，周志华老师还出了一本书，叫《机器学习理论导引》，豆瓣评分也颇高，相信也不错。
+
+![watermelon2](src/watermelon2.png)
+
+<br/>
+
 **2. 凸优化**
 
-学习了机器学习，大家就会知道，大多数机器学习方法都是要对一个最优函数做优化。其中需要的一个相对比较专门的数学基础就是凸优化。
+学习了机器学习，大家就会知道，大多数机器学习方法都是要求解一个最优函数。其中就需要的一个相对比较专门的数学基础：凸优化。
 
 关于凸优化，斯坦福大学的 CS364a 是这方面的入门课程。另外，课程中也推荐了一本教材。
 
-![cs364a](cs364a.png)
+![cs364a](src/cs364a.png)
 
 传送门：[http://web.stanford.edu/class/ee364a/](http://web.stanford.edu/class/ee364a/)
 
@@ -378,17 +440,17 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 **3. 概率图模型**
 
-概率图模型也是深入理解很多人工智能方法的利器，在图像识别，自然语言处理领域都有非常多的应用。我研究生时期的毕业课题，是做虚拟的动作识别，也需要使用概率图模型。
+概率图模型也是深入理解很多人工智能方法的利器，在图像识别，自然语言处理领域都有非常多的应用。我研究生时期的毕业课题，是做虚拟动作识别，也需要使用概率图模型。
 
 关于概率图模型，斯坦福大学有一门非常经典的课程 CS 228: Probabilistic Graphical Models
 
-![cs228](cs228.png)
+![cs228](src/cs228.png)
 
 传送门：[https://cs.stanford.edu/~ermon/cs228/index.html](https://cs.stanford.edu/~ermon/cs228/index.html)
 
-对于这门课程，在 Coursera 上也有一个系列课程，是斯坦福的这门课程的简化版本。
+在 Coursera 上也有一个概率图模型的系列课程，是斯坦福的这门课程的简化版本。
 
-![courserapgm](courserapgm.png)
+![courserapgm](src/courserapgm.png)
 
 传送门：[https://www.coursera.org/specializations/probabilistic-graphical-models](https://www.coursera.org/specializations/probabilistic-graphical-models)
 
@@ -396,19 +458,23 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 **4. 数据挖掘**
 
-数据挖掘主要是对大规模数据进行处理的。对数据的聚类分析，大规模的监督学习，包括推荐系统等领域，都有广泛应用。
+数据挖掘主要是对大规模数据进行处理的。在数据的聚类分析，大规模的监督学习，包括推荐系统等领域，都有广泛应用。
 
-对于数据挖掘，锐减斯坦福大学的 CS246: Mining Massive Data Sets。
+对于数据挖掘，推荐斯坦福大学的 CS246: Mining Massive Data Sets。
 
-![cs246](cs246.png)
+![cs246](src/cs246.png)
 
 传送门：[http://web.stanford.edu/class/cs246/](http://web.stanford.edu/class/cs246/)
 
 <br/>
 
-**第四年：专有领域学习**
+#### 第四年：专有领域学习
 
-机器学习方法是领域相关的，在不同的领域，有很多专有的方法，包括专门的研究对象，需要进一步学习。在最后，大家已经可以挑选自己喜欢的方向，去做专门的学习了。
+机器学习方法是领域相关的。在不同的领域，有很多专有的方法，包括专门的研究对象，需要进一步学习。
+
+学到这里，相信大家已经有了相当的基础，可以挑选自己喜欢的方向，去做专门的学习了。
+
+<br/>
 
 **1. 卷积神经网络和计算机视觉**
 
@@ -416,7 +482,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 对于人工智能在视觉领域的应用，最著名的课程，应该就是华人科学家李飞飞在斯坦福大学的课程了。CS231n Convolutional Neural Networks for Visual Recognition。
 
-![cs231n](cs231n.png)
+![cs231n](src/cs231n.png)
 
 传送门：[http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
 
@@ -424,33 +490,47 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 **2. 自然语言处理**
 
-当下人工智能另外一个非常广泛的应用领域，应该就是自然语言处理了。这方面的经典课程，我推荐斯坦福大学的 CS224n: Natural Language Processing with Deep Learning。
+当下人工智能另外一个应用非常广泛的应用领域，就是自然语言处理了。
 
-![cs224n](cs224n.png)
+这方面的经典课程，我推荐斯坦福大学的 CS224n: Natural Language Processing with Deep Learning。
+
+![cs224n](src/cs224n.png)
 
 传送门：[http://web.stanford.edu/class/cs224n/](http://web.stanford.edu/class/cs224n/)
 
 <br/>
 
+最近，Andrew Ng 的 deeplearning.ai 在 Coursera 上新开设了一个系列课程，叫 Natural Language Processing Specialization，有兴趣的同学也可以参考。
+
+![coursera_nlp](src/coursera_nlp.png)
+
+传送门：[https://www.coursera.org/specializations/natural-language-processing](https://www.coursera.org/specializations/natural-language-processing)
+
+<br/>
+
 **3. 机器学习在金融领域的应用**
 
-人工智能在金融领域的应用也是一个重要的趋势。但是通常，在计算机专业中，不是被特别强调。毕竟大多数计算机专业的学生还是要去 IT 大厂，而不是华尔街。但是因为有很多同学对人工智能在金融领域的应用感兴趣，在这里也提一句。
+人工智能在金融领域的应用也是一个重要的趋势。但是通常，在计算机专业中，不是被特别强调。毕竟大多数计算机专业的学生还是要去 IT 大厂，而不是华尔街。
 
-我在我的 [开源分享第一期]()，就分享了一个资源，是公认非常经典的机器学习在金融领域应用的宝典，感兴趣可以参考：
+但是因为有很多同学对人工智能在金融领域的应用感兴趣，在这里也提一句。我在我的[《开源分享第一期》](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247484784&idx=1&sn=990039bc5d1c38ed097ad6e04407669f&chksm=fd8caa36cafb232094d4cf75b049a8fa5816b9db916b2bd63123a6802d409cbf2a64a46abf43&scene=21#wechat_redirect)，就分享了一本书，是公认的机器学习在金融领域应用的宝典。感兴趣的同学可以参考：
 
-![finml](finml.png)
+![finml](src/finml.png)
+
+亚马逊链接在[这里](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/ref=sr_1_1?crid=1GIKRQZD7A1QA&dchild=1&keywords=advanced+financial+machine+learning&qid=1592937952&s=books&sprefix=advanced+fin%2Cstripbooks-intl-ship%2C210&sr=1-1)
 
 <br/>
 
 **4. 机器学习在生物医学医药领域的应用**
 
-同样，机器学习在医学医药领域也有了越来越多的应用，只不过通常计算机专业的同学不很了解这方面。而是相反的，很多医学医药领域的人，学习人工智能，进而应用在自己的领域更多一些。
+同样，机器学习在医学医药领域也有了越来越多的应用。只不过通常计算机专业的同学不很了解这方面。而是相反的，很多医学医药领域的人，会来学习人工智能的知识，进而应用在自己的领域，这种情况更多一些。
 
-关于生物医学医药领域，整体我还是很看好的。虽然不知道爆炸的时间是什么时候，但我相信有着光明的未来。而且，这个领域和计算机专业有着越来越多的交集，我之前在公众号还写过一篇文章：[算法不好的工程师不是优秀的生物学家](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247485503&idx=1&sn=03b9c026598f4c2c548480e5eed7a5a1&chksm=fd8ca779cafb2e6fe7a9f1c08258c9fe6aa6845e7270904f44c6324ec3ba10425e4b9f893fb1&token=2017630809&lang=zh_CN#rd)
+关于生物医学医药领域，整体我还是很看好的。虽然不知道爆炸的时间是什么时候，但我相信有着光明的未来。
 
-在这方面，吴恩达的 deeplearning.ai 在 Coursera 上也开设了一个系列课程，叫 Ai for Medicine，感兴趣的同学可以去了解一下。
+而且，这个领域和计算机专业有着越来越多的交集，我之前在公众号还写过一篇文章：[《算法不好的工程师不是优秀的生物学家》](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247485503&idx=1&sn=03b9c026598f4c2c548480e5eed7a5a1&chksm=fd8ca779cafb2e6fe7a9f1c08258c9fe6aa6845e7270904f44c6324ec3ba10425e4b9f893fb1&scene=21#wechat_redirect)。
 
-![courseraaim](courseraaim.png)
+在这方面，Andrew Ng 的 deeplearning.ai 在 Coursera 上也开设了一个系列课程，叫 Ai for Medicine，感兴趣的同学可以去了解一下。
+
+![courseraaim](src/courseraaim.png)
 
 传送门：[https://www.coursera.org/specializations/ai-for-medicine](https://www.coursera.org/specializations/ai-for-medicine)
 
@@ -458,14 +538,22 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 **5. Kaggle**
 
-当然了，学习到这里，大家已经可以（其实早就可以了）去参加 Kaggle 的竞赛了。在 Kaggle 上，会有大量真的数据供大家实验，让大家尝试解决“真实的问题”。虽然其实和解决真实的问题还是有差距，但 Kaggle 依然是一个非常好的平台。
+当然了，学习到这里，大家已经可以（其实早就可以了）去参加 Kaggle 的竞赛了。在 Kaggle 上，会有大量真实的数据供大家实验，让大家尝试解决“真实的问题”。虽然在这类平台上竞技，其实和解决真实的问题还是有差距，但也比使用虚拟的数据，或者仅仅是学习原理，强太多。
 
-这里我想说的是，Kaggle 绝不仅仅是一个非常好的竞赛平台，更是一个非常好的学习平台，或者说是机器学习相关的交流平台。大部分任务都有相当多的公开的 notebook 供大家交流学习。
+同时，Kaggle 也绝不仅仅只是一个竞赛平台，更是一个非常好的学习平台，或者说是机器学习相关的垂直交流平台。Kaggle 上大部分任务都有相当多的公开的 notebook，供大家交流学习。仔细研究的话，相信每个人都能从中受到很多启发。
 
 当然了，如果此时，大家有机会，能到真正的业界去参与真实的项目，那就更赞了。
 
 <br/>
 
-如果你真的想认真学习人工智能，相信这篇文章，为你提供了一个很好的路线：）
+如果你真的想认真学习人工智能，相信这篇文章，为你提供了一个很好的路线。
+
+所有的资源都在这里了，就差投入时间精力好好学习了：）
 
 **大家加油！**
+
+<br/>
+
+---
+
+如果大家还有好的资源补充，欢迎大家来给我提 issue 哇！：）
