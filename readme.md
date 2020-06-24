@@ -117,7 +117,7 @@
 
 这本书有中文版。但我目测还是第一版。
 
-相较而言，国外最新版已经是第二版了。国外亚马逊链接：[这里](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?crid=2UQKDUERI787R&dchild=1&keywords=python+crash+course&qid=1592815039&sprefix=python+crash%2Caps%2C201&sr=8-1)
+相较而言，国外最新版已经是第二版了。国外亚马逊链接：[这里](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?crid=2UQKDUERI787R&dchild=1&keywords=python+crash+course&qid=1592815039&sprefix=python+crash%2Caps%2C201&sr=8-1)。
 
 另外，在掌握了 Python 基础语法以后，对于 Python 的应用，有一本经典的书籍，近乎是必看的。我在我的公众号[《开源分享第三期》](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247484912&idx=2&sn=8e2dd091697d184f6d495fcf708698f8&chksm=fd8caab6cafb23a000be6171f1a813aa3403d02d4528a42ab3f385dee93862e8bda40775b159&token=350451291&lang=zh_CN#rd)中分享过，就是这本：
 
@@ -245,7 +245,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 首先，就是大名鼎鼎的《算法4》。
 
-![algo](algo4.png)
+![algo](src/algo4.png)
 
 亚马逊链接在[这里](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?dchild=1&keywords=algorithm&qid=1592939552&sr=8-1)。
 
@@ -297,7 +297,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 ![sql](src/sql.png)
 
-亚马逊链接在[这里](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073/ref=sr_1_2?dchild=1&keywords=SQL&qid=1592936262&sr=8-2)
+亚马逊链接在[这里](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073/ref=sr_1_2?dchild=1&keywords=SQL&qid=1592936262&sr=8-2)。
 
 <br/>
 
@@ -329,7 +329,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 ![diaa](src/diaa.png)
 
-亚马逊链接在[这里](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+亚马逊链接在[这里](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)。
 
 如果对课程资料感兴趣，我推荐斯坦福大学的课程 CS149：PARALLEL COMPUTING
 ![cs149](src/cs149.png)
@@ -354,7 +354,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 ![ai](src/ai.png)
 
-亚马逊链接在[这里](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_2?crid=DUVUAHSCTLKO&dchild=1&keywords=artificial+intelligence+a+modern+approach&qid=1592936849&s=books&sprefix=artificial+intelligence+a+%2Cstripbooks-intl-ship%2C201&sr=1-2)
+亚马逊链接在[这里](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_2?crid=DUVUAHSCTLKO&dchild=1&keywords=artificial+intelligence+a+modern+approach&qid=1592936849&s=books&sprefix=artificial+intelligence+a+%2Cstripbooks-intl-ship%2C201&sr=1-2)。
 
 但是，这本书是一个大部头，细细啃一遍太花时间了。我建议配合一个视频课程看。比如，斯坦福大学的 CS221: Artificial Intelligence: Principles and Techniques
 
@@ -410,7 +410,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 ![handson_ml](src/handson_ml.png)
 
-亚马逊链接在[这里](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=2LAYAPBMAIC92&dchild=1&keywords=machine+learning&qid=1592817718&sprefix=machine+%2Caps%2C201&sr=8-1)
+亚马逊链接在[这里](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=2LAYAPBMAIC92&dchild=1&keywords=machine+learning&qid=1592817718&sprefix=machine+%2Caps%2C201&sr=8-1)。
 
 这本书国内有引进，但是国内引进的是第一版，现在国外最新版本已经是第二版了。
 
@@ -516,7 +516,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 ![finml](src/finml.png)
 
-亚马逊链接在[这里](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/ref=sr_1_1?crid=1GIKRQZD7A1QA&dchild=1&keywords=advanced+financial+machine+learning&qid=1592937952&s=books&sprefix=advanced+fin%2Cstripbooks-intl-ship%2C210&sr=1-1)
+亚马逊链接在[这里](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/ref=sr_1_1?crid=1GIKRQZD7A1QA&dchild=1&keywords=advanced+financial+machine+learning&qid=1592937952&s=books&sprefix=advanced+fin%2Cstripbooks-intl-ship%2C210&sr=1-1)。
 
 <br/>
 
