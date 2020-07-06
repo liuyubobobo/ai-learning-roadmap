@@ -334,7 +334,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 因为可以免费下载，所以我直接把这本书的 PDF 放在这个代码仓下了。大家可以在这里直接[下载](downloads/2008_Book_TheAlgorithmDesignManual.pdf)。
 
-感谢 @kunlk 的提醒。这本书引进了中文版，中文版叫《算法设计指南》。京东购买点击[这里](https://union-click.jd.com/jdc?e=jdext-1263663190677467136-0&p=AyIGZRprFQESB10eXR0yVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARIHXR5dHR1LQglGa1dVcHAMRRBDZ3BHDVMFbEpXXVBoP0MOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlUbWyUDIgdRE14UBRMBXBhfFQsiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcFwUVBVUTWhIEFAJSHVsXBQ4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRREVQCH1IcbEhVBV8HVl1UaVUdUhABEgJUK1kUAxAF)
+感谢 [@kunlk](https://github.com/kunlk) 的提醒。这本书引进了中文版，中文版叫《算法设计指南》。京东购买点击[这里](https://union-click.jd.com/jdc?e=jdext-1263663190677467136-0&p=AyIGZRprFQESB10eXR0yVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARIHXR5dHR1LQglGa1dVcHAMRRBDZ3BHDVMFbEpXXVBoP0MOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlUbWyUDIgdRE14UBRMBXBhfFQsiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcFwUVBVUTWhIEFAJSHVsXBQ4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRREVQCH1IcbEhVBV8HVl1UaVUdUhABEgJUK1kUAxAF)
 
 <br/>
 
@@ -350,7 +350,9 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 这本书的英文版是可以免费在线浏览的。传送门：[http://pages.cs.wisc.edu/~remzi/OSTEP/](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-感谢 @zozospider 的提醒。这本书引进了中文版，中文版叫《操作系统导论》。京东购买点击[这里](https://union-click.jd.com/jdc?e=jdext-1263663486368227328-0&p=AyIGZRprFQEWBVEcWBUyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARYFURxYFR1LQglGa2N2bUc0UwJHYFFPMWs4EltRGTxgAXUOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlEcXCUDIgdRE14UBRMOURhTHQQiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcFwUVBVASXBcFGwRWHVkWCw4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRREg4HHgxBbEhVBV8FRQJEaVUdXBMHFwNWK1kUAxAF)。
+感谢 [@zozospider](https://github.com/zozospider) 的提醒。这本书引进了中文版，中文版叫《操作系统导论》。京东购买点击[这里](https://union-click.jd.com/jdc?e=jdext-1263663486368227328-0&p=AyIGZRprFQEWBVEcWBUyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARYFURxYFR1LQglGa2N2bUc0UwJHYFFPMWs4EltRGTxgAXUOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlEcXCUDIgdRE14UBRMOURhTHQQiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcFwUVBVASXBcFGwRWHVkWCw4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRREg4HHgxBbEhVBV8FRQJEaVUdXBMHFwNWK1kUAxAF)。
+
+<br/>
 
 关于视频课程，我推荐斯坦福的课程 CS140：Operating Systems。
 
