@@ -40,8 +40,8 @@
 
 | | | |
 | --- | --- | --- |
-| Python 语言 | Python Crash Course, 2nd Edition [Amazon](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?crid=2UQKDUERI787R&dchild=1&keywords=python+crash+course&qid=1592815039&sprefix=python+crash%2Caps%2C201&sr=8-1) <br/> [京东](https://union-click.jd.com/jdc?e=jdext-1258438628390801408-0&p=AyIGZRhbHQsWAVIaXxEyEgddE1kVABc3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSB10TWRUAFxgMXgdIMhJBHGAAV1JwZQkBLUZ9agQwcwlidWILWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWD1YSWxECFw9THVglAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgRREl4XCxUEXBlTFAsTB1AaUgkDIgdUGlsdBRUPUBI1FGwRBlcaUxwFFwZdK1slASJZOxoLRgYTAgEcNU9RUg9UQAtBbBAPVhhTEQYQN1caWhcA) | 书籍 |
-| | Automate the Boring Stuff with Python, 2nd Edition [Amazon](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1?crid=3T93PNJC9WLSH&dchild=1&keywords=automate+the+boring+stuff+with+python&qid=1592894089&sprefix=automate%2Caps%2C208&sr=8-1) <br/>[第二版英文原版内容线上版本](https://automatetheboringstuff.com/2e/) [京东](https://union-click.jd.com/jdc?e=jdext-1258439152880070656-0&p=AyIGZRhbHQsWAVIaXxEyEgddHlkcBhA3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSB10eWRwGEBgMXgdIMnZCXFwmEARZZD1TPxZaZX8tUyFgWmILWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWD1YSWxEBFAJcHV0lAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgRREl4XChIDVhJSFAMUBlIfXAkDIgdUGlsdBRUPUBI1FGwRBlcaUxwFFwZdK1slASJZOxoIFlFGAwBPNU9RUg9XHR8TbBcHVBpYFAYQN1caWhcA) | 书籍 |
+| Python 语言 | Python Crash Course, 2nd Edition [Amazon](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?crid=2UQKDUERI787R&dchild=1&keywords=python+crash+course&qid=1592815039&sprefix=python+crash%2Caps%2C201&sr=8-1) [京东](https://union-click.jd.com/jdc?e=jdext-1258438628390801408-0&p=AyIGZRhbHQsWAVIaXxEyEgddE1kVABc3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSB10TWRUAFxgMXgdIMhJBHGAAV1JwZQkBLUZ9agQwcwlidWILWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWD1YSWxECFw9THVglAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgRREl4XCxUEXBlTFAsTB1AaUgkDIgdUGlsdBRUPUBI1FGwRBlcaUxwFFwZdK1slASJZOxoLRgYTAgEcNU9RUg9UQAtBbBAPVhhTEQYQN1caWhcA) | 书籍 |
+| | Automate the Boring Stuff with Python, 2nd Edition <br/>[第二版英文原版内容线上版本](https://automatetheboringstuff.com/2e/) [Amazon](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_1?crid=3T93PNJC9WLSH&dchild=1&keywords=automate+the+boring+stuff+with+python&qid=1592894089&sprefix=automate%2Caps%2C208&sr=8-1) [京东](https://union-click.jd.com/jdc?e=jdext-1258439152880070656-0&p=AyIGZRhbHQsWAVIaXxEyEgddHlkcBhA3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSB10eWRwGEBgMXgdIMnZCXFwmEARZZD1TPxZaZX8tUyFgWmILWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWD1YSWxEBFAJcHV0lAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgRREl4XChIDVhJSFAMUBlIfXAkDIgdUGlsdBRUPUBI1FGwRBlcaUxwFFwZdK1slASJZOxoIFlFGAwBPNU9RUg9XHR8TbBcHVBpYFAYQN1caWhcA) | 书籍 |
 | | Introducing Python [Amazon](https://www.amazon.com/Introducing-Python-Modern-Computing-Packages/dp/1492051365/ref=sr_1_1?dchild=1&keywords=Introducing+Python&qid=1593034272&sr=8-1) [京东](https://union-click.jd.com/jdc?e=jdext-1259372381283463168-0&p=AyIGZRhbHQsWAVIaXxEyEgdcGFsXBRc3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSB1wYWxcFFxgMXgdIMlkdNRssb1YXZAccHGNCb2VcAQxyGGILWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWD1caWRMEFAVTH10lAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgRRE1kTARAOVRhSFwcVBVUcUgkDIgdUGlsdBRUPUBI1FGwRBlcaUxwFFwZdK1slASJZOxoIFQpGDwAfNU9RV04PH1tWbBcPVRJSFwYXN1caWhcA) | 书籍 |
 | | Fluent Python [Amazon](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?dchild=1&keywords=Fluent+Python&qid=1593034574&sr=8-1) [京东](https://union-click.jd.com/jdc?e=jdext-1259372593155031040-0&p=AyIGZRhbHQsWAVIaXxEyEgRVElwVChE3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSBFUSXBUKERgMXgdIMkBeEwEvYV5VYhRDHhF8VVhURlJgAFQLWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWD1caWRMLEQJQHVslAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgRRE1kTARYPVxtfEQMQB1QeWgkDIgdUGlsdBRUPUBI1FGwRBlcaUxwFFwZdK1slASJZOxoLRlUaVV0eNU9RV04IEl1CbBcBUBxYFAoaN1caWhcA) | 书籍 |
 | C++ | C++ Primer [Amazon](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?dchild=1&keywords=C%2B%2B+Primer&qid=1592895269&sr=8-1) [京东](https://union-click.jd.com/jdc?e=jdext-1258440104961826816-0&p=AyIGZRhbHQsWAVIaXxEyEgdXGlwVABs3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSB1caXBUAGxgMXgdIMkpVA0ZfbwFJZSdtEFN4anMxGS4LRlQLWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWD1YSWxEGEwdcG1IlAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgRREl4QAxIGUBNcFQsRAFwbXAkDIgdUGlsdBRUPUBI1FGwRBlcaUxwFFwZdK1slASJZOxoIFgtHUlceNU9RUg9cGBMWbBcGXR9TFAcTN1caWhcA) | 书籍 |
@@ -52,7 +52,7 @@
 | 线性代数 | Introduction to Linear Algebra [Amazon](https://www.amazon.com/Introduction-Linear-Algebra-5Th-Edn/dp/B074PY55RL/ref=sr_1_6?crid=RTU9EFRMIMQ0&dchild=1&keywords=introduction+to+linear+algebra&qid=1592895558&sprefix=introduction+to+linear%2Caps%2C206&sr=8-6) [京东](https://union-click.jd.com/jdc?e=jdext-1258442060950409216-0&p=AyIGZRprFQEVD10bXhYyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARUPXRteFh1LQglGa2sFSF1SaQFMYWdDKUcedltCATRmXVMOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlUbWyUDIgdRE1gcAhYPUhJYFgEiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhfHAcXBFQcWh0GEwJUE1gVBQ4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRSQQNUHg8SbEhUFRMDFkdPaVcTWBIDEAZWK1kUAxAF) | 书籍 |
 | | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) <br/> [A 2020 Vision of Linear Algebra](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/videos/) | MIT 公开课 |
 | | Linear Algebra and Its Applications [Amazon](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/ref=sr_1_1?dchild=1&keywords=Linear+Algebra+and+Its+Applications&qid=1592895867&sr=8-1) [京东](https://union-click.jd.com/jdc?e=jdext-1258442438882521088-0&p=AyIGZRtSEQoUBFUbXRIyEABXHV4TBBQFUBtrUV1KWQorAlBHU0VeBUVNR0ZbSkAOClBMW0sZXBcEFwFTHVkQAg1eEEcGJXhIHS5ACXAEck8JGDhiHBNXEFg6T2IeC2UbUhUAGgZUG1wWMhIGVBtfEAERAVQraxUHIkY7HlsUCxA3VCtbEQoRDlUcWhELFwZQK1sdBiLR%2B4%2BOnb3Lt%2FDN8bvXn7eAkvDBvJQ3ZStYJVlHUxxeRxUBFg5QHlgQABsOXBhfFgITDlwHWiUCEwZVE1wSChcOOxo1FgMQBl0SXBADGjdVK1glXHwGBhgIRwVBDjtBCFUKSAYBWTUQAxoOXBJaEDIQBlQZWQ%3D%3D) | 书籍 |
-| | Linear Algebra Done Right [Springer官网](https://link.springer.com/book/10.1007/978-3-319-11080-6) [PDF下载](downloads/2015_Book_LinearAlgebraDoneRight.pdf) | 书籍 |
+| | Linear Algebra Done Right <br/> [Springer官网](https://link.springer.com/book/10.1007/978-3-319-11080-6) [原版PDF下载](downloads/2015_Book_LinearAlgebraDoneRight.pdf) [京东](https://union-click.jd.com/jdc?e=jdext-1263662856689729536-0&p=AyIGZRprFQETAlMcWBIyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARMCUxxYEh1LQglGa218VXgucCJKZ0BhLR4kQHAbAhNOG1MOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlEcXCUDIgdRE14UBRMBVBhSFgQiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcFwUVBFwfXBILGgFWE18XBQ4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRSQVAGT1kRbEhVBV8GFgZNaVUdWBIFEgFVK1kUAxAF) | 书籍 |
 | 概率论 | [CS109: Probability for Computer Scientists](http://web.stanford.edu/class/cs109/) | 斯坦福公开课 |
 
 <br/>
@@ -62,8 +62,8 @@
 | | | |
 | --- | --- | --- |
 | 算法与数据结构 | 算法4 [Amazon](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?dchild=1&keywords=algorithm&qid=1592939552&sr=8-1) [京东](https://union-click.jd.com/jdc?e=jdext-1258443669071400960-0&p=AyIGZRhbHQsWAVIaXxEyEgdUE1ITCxo3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSB1QTUhMLGhgMXgdIMkxTBUEtfHlvZDYYB1ZYTV1RRSN3Y0QLWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWD1YSWxIAFgdRG1klAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgRREl4QABUAXRpdFQcTBl0cWgkDIgdUGlsdBRUPUBI1FGwRBlcaUxwFFwZdK1slASJZOxoIFQoVUgYfNU9RUg8VSwBSbBcGXR1TFgAUN1caWhcA) | 书籍 |
-| | 算法设计手册 [Springer官网](https://link.springer.com/book/10.1007/978-1-84800-070-4) [PDF下载](downloads/2008_Book_TheAlgorithmDesignManual.pdf) | 书籍 |
-| 操作系统基础 | Operating Systems: Three Easy Pieces [Amazon](https://www.amazon.com/Operating-Systems-Three-Easy-Pieces/dp/198508659X/ref=sr_1_1?dchild=1&keywords=Operating+Systems%3A+Three+Easy+Pieces&qid=1592936154&sr=8-1) <br/> [在线阅读](http://pages.cs.wisc.edu/~remzi/OSTEP/) | 书籍 |
+| | 算法设计手册(指南) [Springer官网](https://link.springer.com/book/10.1007/978-1-84800-070-4) [原版PDF下载](downloads/2008_Book_TheAlgorithmDesignManual.pdf) [京东](https://union-click.jd.com/jdc?e=jdext-1263663190677467136-0&p=AyIGZRprFQESB10eXR0yVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARIHXR5dHR1LQglGa1dVcHAMRRBDZ3BHDVMFbEpXXVBoP0MOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlUbWyUDIgdRE14UBRMBXBhfFQsiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcFwUVBVUTWhIEFAJSHVsXBQ4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRREVQCH1IcbEhVBV8HVl1UaVUdUhABEgJUK1kUAxAF) | 书籍 |
+| 操作系统基础 | Operating Systems: Three Easy Pieces <br/> [原版在线阅读](http://pages.cs.wisc.edu/~remzi/OSTEP/) [Amazon](https://www.amazon.com/Operating-Systems-Three-Easy-Pieces/dp/198508659X/ref=sr_1_1?dchild=1&keywords=Operating+Systems%3A+Three+Easy+Pieces&qid=1592936154&sr=8-1) [京东](https://union-click.jd.com/jdc?e=jdext-1263663486368227328-0&p=AyIGZRprFQEWBVEcWBUyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARYFURxYFR1LQglGa2N2bUc0UwJHYFFPMWs4EltRGTxgAXUOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlEcXCUDIgdRE14UBRMOURhTHQQiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcFwUVBVASXBcFGwRWHVkWCw4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRREg4HHgxBbEhVBV8FRQJEaVUdXBMHFwNWK1kUAxAF) | 书籍 |
 | | [CS140：Operating Systems](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php) | 斯坦福公开课 |
 | | CSAPP [Amazon](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/ref=sr_1_1?crid=2QWJ6MII3OH8A&dchild=1&keywords=computer+systems+a+programmer%27s+perspective%2C+third+edition&qid=1593034803&sprefix=Computer+Sys%2Caps%2C279&sr=8-1) [京东](https://union-click.jd.com/jdc?e=jdext-1259365663120216064-0&p=AyIGZRprFQETBlIcWRMyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARMGUhxZEx1LQglGa2gKelgyARtzYWQEDEkFC3VVVFN6HkMOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlQfWCUDIgdRE1kUABUHUxhYEQciB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhfHQAVA1IcWRUBEwRVHFoSBw4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRREgVXElMUbEhUEF0GUFFTaVATWxYEEQdRK1kUAxAF) | 书籍 |
 | 数据库基础 | SQL 必知必会 [Amazon](https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself/dp/0672336073/ref=sr_1_2?dchild=1&keywords=SQL&qid=1592936262&sr=8-2) [京东](https://union-click.jd.com/jdc?e=jdext-1258445587717947392-0&p=AyIGZRhbHQsWAVIaXxEyEgdWGVgSChs3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSB1YZWBIKGxgMXgdIMmVmT2clVWpuZDJDPXJ7bmQ0UC0UYUQLWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWD1YSWxILEw5dE1glAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgRREl4QBhYOUx1bEwoXAVcTWAkDIgdUGlsdBRUPUBI1FGwRBlcaUxwFFwZdK1slASJZOxoLRlUXU1JONU9RUldUGQBWbBAPVhNYFgcSN1caWhcA) | 书籍 |
@@ -268,9 +268,11 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 ![linear3](src/linear3.jpg)
 
-可惜这本书并没有中文版。不过现在疫情期间，Springer 很多书籍都免费下载，包括这本书。对此感兴趣的同学不要错过。官网链接在[这里](https://link.springer.com/book/10.1007/978-3-319-11080-6)。
+现在疫情期间，Springer 出版社很多书籍都免费下载，包括这本书。对此感兴趣的同学不要错过。官网链接在[这里](https://link.springer.com/book/10.1007/978-3-319-11080-6)。
 
 因为可以免费下载，所以我直接把这本书的 PDF 放在这个代码仓下了。大家可以在这里直接[下载](downloads/2015_Book_LinearAlgebraDoneRight.pdf)。
+
+京东购买点击[这里](https://union-click.jd.com/jdc?e=jdext-1263662856689729536-0&p=AyIGZRprFQETAlMcWBIyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARMCUxxYEh1LQglGa218VXgucCJKZ0BhLR4kQHAbAhNOG1MOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlEcXCUDIgdRE14UBRMBVBhSFgQiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcFwUVBFwfXBILGgFWE18XBQ4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRSQVAGT1kRbEhVBV8GFgZNaVUdWBIFEgFVK1kUAxAF)
 
 <br/>
 
@@ -324,13 +326,15 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 这本书更偏向算法设计，我认为和《算法4》能形成一个很好的互补。
 
-我一查才知道，这本书似乎国内没有引进中文版？但依然是，由于疫情原因，这本书的英文原版正版现在在国外是免费下载的。传送门：
+依然是，由于疫情原因，这本书的英文原版正版现在在国外是免费下载的。传送门：
 
 ![algoman2](src/algoman2.png)
 
 传送门：[https://link.springer.com/book/10.1007/978-1-84800-070-4](https://link.springer.com/book/10.1007/978-1-84800-070-4)
 
 因为可以免费下载，所以我直接把这本书的 PDF 放在这个代码仓下了。大家可以在这里直接[下载](downloads/2008_Book_TheAlgorithmDesignManual.pdf)。
+
+感谢 @kunlk 的提醒。这本书引进了中文版，中文版叫《算法设计指南》。京东购买点击[这里](https://union-click.jd.com/jdc?e=jdext-1263663190677467136-0&p=AyIGZRprFQESB10eXR0yVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARIHXR5dHR1LQglGa1dVcHAMRRBDZ3BHDVMFbEpXXVBoP0MOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlUbWyUDIgdRE14UBRMBXBhfFQsiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcFwUVBVUTWhIEFAJSHVsXBQ4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRREVQCH1IcbEhVBV8HVl1UaVUdUhABEgJUK1kUAxAF)
 
 <br/>
 
@@ -344,7 +348,9 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 ![osbook](src/osbook.png)
 
-不过这本书貌似也没有引进中文版。但是英文版是可以免费在线浏览的。传送门：[http://pages.cs.wisc.edu/~remzi/OSTEP/](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+这本书的英文版是可以免费在线浏览的。传送门：[http://pages.cs.wisc.edu/~remzi/OSTEP/](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+感谢 @zozospider 的提醒。这本书引进了中文版，中文版叫《操作系统导论》。京东购买点击[这里](https://union-click.jd.com/jdc?e=jdext-1263663486368227328-0&p=AyIGZRprFQEWBVEcWBUyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARYFURxYFR1LQglGa2N2bUc0UwJHYFFPMWs4EltRGTxgAXUOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTAlEcXCUDIgdRE14UBRMOURhTHQQiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhcFwUVBVASXBcFGwRWHVkWCw4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRREg4HHgxBbEhVBV8FRQJEaVUdXBMHFwNWK1kUAxAF)。
 
 关于视频课程，我推荐斯坦福的课程 CS140：Operating Systems。
 
