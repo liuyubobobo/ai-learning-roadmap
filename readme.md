@@ -70,6 +70,10 @@
 | | [SQLZoo](https://sqlzoo.net/) | 在线练习 |
 | | [SQLBolt](https://sqlbolt.com/) | 在线练习 |
 | | [CS145：Data Management and Data Systems](https://cs145-fa19.github.io/) | 斯坦福公开课 |
+| | [CS245：Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/) | 斯坦福公开课 |
+| | [CS346：Database System Implementation](https://web.stanford.edu/class/cs346/2015/) | 斯坦福公开课 |
+| | [数据库系统（上）：模型与语言](https://www.icourse163.org/course/HIT-1001516002) | 中国大学MOOC |
+| | [数据库系统（下）：管理与技术](https://www.icourse163.org/course/HIT-1001578001) | 中国大学MOOC |
 | 并行计算基础 | [CS149：PARALLEL COMPUTING](https://www.zhihu.com/question/22221180/answer/1296836715) | 斯坦福公开课 | 
 | | Designing Data-Intensive Applications [Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) [京东](https://union-click.jd.com/jdc?e=jdext-1258448210928152576-0&p=AyIGZRprFQEXBVMcWBAyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVARcFUxxYEB1LQglGa2taVEwJbDprYElhLGYPflxmD1wSL1MOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMkRpVRpaFAMTA1EeUyUDIgdRE1gcAhQCVx5eEAEiB10fa8OshtLdpIKlp8St%2B87WpdebrIGl3SUyIgRlQA5BS1cbVRhfHAcXDlYbWh0BGwdRGF8TBQ4GZRtaFAIaAFITXhxsE2lWGlkUChsAUBpTJQIiBGVFNRRSQVBQEloQbEhUFUsOTQZGaVcTWRUEGgNRK1kUAxAF) | 书籍 |
 | 人工智能基础 | Artificial Intelligence: A Modern Approach [Amazon](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_2?crid=DUVUAHSCTLKO&dchild=1&keywords=artificial+intelligence+a+modern+approach&qid=1592936849&s=books&sprefix=artificial+intelligence+a+%2Cstripbooks-intl-ship%2C201&sr=1-2) [京东](https://union-click.jd.com/jdc?e=jdext-1258448640840314880-0&p=AyIGZRhbHAYSAlQSXRUyFAZTElkcAhcGUx5rUV1KWQorAlBHU0VeBUVNR0ZbSkAOClBMW0sdWhMLEA5VHloTBw1eEEcGJWVQXwluHmN1chlWeDBFcFVzHhkkUlQeC2UbUhUAGgZUG1wWMhIGVBtfEAERAVQraxUHIkY7G1oXBBAEUhprFDISA10YUhUEFgVSE1gWMhIPUSuNu5bHj%2BrC67DUuKmAluvAi7nT651rJTIRNw5OD1xHDgdWH1IQBxsAUBpSEAMQB1ASUhQeEzdVGloVChUAXR5SewN8BFQZWh0LFQJUE2sVMhE3C3VaRVJFBAFPUntYQUcFTBocAnwFXRlYFwUUB2UZWhQAEA%3D%3D) | 书籍 |
@@ -116,13 +120,13 @@
 
 <br/>
 
-#### 第一年：计算机语言基础 + 数学
+## 第一年：计算机语言基础 + 数学
 
 首先，人工智能作为计算机科学的一个分支，是需要编程的。想要编程，大家必须学习计算机语言基础。
 
 <br/>
 
-**1. Python**
+### 1. Python
 
 对于计算机语言的选择，毋庸置疑，人工智能方向毋庸置疑是需要学习 Python 语言的。关于 Python 语言语法基础的学习，我就不具体推荐资源了。网上收费的免费的各种资源太多了。但如果一定要推荐的话，仅凭个人偏好，入门推荐这本书：
 
@@ -168,7 +172,7 @@ Orelly 的一本 Python 书也值得推荐：Introducing Python。我的读者�
 
 <br/>
 
-**2. C++**
+### 2. C++
 
 除了 Python，我还推荐学习一门编译型语言。对于这个语言的选择，于人工智能方向而言，我个人推荐 C++。因为真正的人工智能工程师，深入到底层，是需要大量使用 C/C++ 的。而 Python 更多的是一种“前端”工具，提供接口调用而已。
 
@@ -190,7 +194,7 @@ Orelly 的一本 Python 书也值得推荐：Introducing Python。我的读者�
 
 <br/>
 
-**3. 程序运行底层 & C**
+### 3. 程序运行底层 & C
 
 下面，我要推荐一门斯坦福大学的基础课，CS107：Computer Organization & Systems。如果翻译过来的话，就是计算机的组织和系统。
 
@@ -204,7 +208,7 @@ Orelly 的一本 Python 书也值得推荐：Introducing Python。我的读者�
 
 <br/>
 
-**4. 微积分**
+### 4. 微积分
 
 除了语言基础，另外一个学习人工智能需要打好的基础，就是数学。
 
@@ -226,7 +230,7 @@ Orelly 的一本 Python 书也值得推荐：Introducing Python。我的读者�
 
 <br/>
 
-**5. 线性代数**
+### 5. 线性代数
 
 对于线性代数，市面上的好教材太多。我在我的公众号文章 [学习乘法不能帮助我们理解质能方程](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247485578&idx=1&sn=42d090afdf14dcbbc806722fc3ffa268&chksm=fd8ca7cccafb2edaa2cb67e0bfcea6452180a9aa7c772da242b40b75ae5d3961af44f439424e&token=2017630809&lang=zh_CN#rd) 和 [开源分享第九期](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247485618&idx=2&sn=dc7fa8776bae47071592c449adc37530&chksm=fd8ca7f4cafb2ee29c48ca4347556b1309939b340505c92aafd9463ddd1b7b1ce1c714026072&scene=21#wechat_redirect) 两篇文章中总共分享了三个线性代数课本。
 
@@ -276,7 +280,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 <br/>
 
-**6. 概率论（和数理统计）**
+### 6. 概率论（和数理统计）
 
 对于概率论，我推荐斯坦福的 CS109：Probability for Computer Scientists。
 
@@ -290,7 +294,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 <br/>
 
-#### 第二年：计算机基础
+## 第二年：计算机基础
 
 如果想成为一名人工智能工程师，计算机领域的基础必须打好。但与此同时，我认为专注于人工智能方向，一些特别低层的内容，比如组成原理，或者数字逻辑，甚至是编译原理等等，并不需要专门学习。所以下面的推荐，并不包含这些内容。
 
@@ -298,7 +302,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 <br/>
 
-**1. 算法和数据结构**
+### 1. 算法和数据结构
 
 算法和数据结构的重要性不想多说了。就算你不理解他们实际上有什么用，只要明白，想当工程师，面试必考算法和数据结构就好了。
 
@@ -338,7 +342,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 <br/>
 
-**2. 操作系统基础**
+### 2. 操作系统基础
 
 操作系统也属于计算机专业的必修课程。这不仅仅是因为我们需要了解操作系统的很多底层机制，更重要的是，我们可以借此学习很多系统设计（System Design）方面的理念。
 
@@ -372,7 +376,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 <br/>
 
-**3. 数据库基础**
+### 3. 数据库基础
 
 做人工智能需要处理大量的数据，这就需要使用数据库，了解数据库的基础。同时，这本质也是在学习“数据模型”这个概念，了解数据存储的设计方案。
 
@@ -406,11 +410,44 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 <br/>
 
-**4. 并行计算基础**
+这门课程有一个后续课程，即斯坦福大学的课程 CS245：Principles of Data-Intensive Systems。
+
+![cs245](src/cs245.png)
+
+传送门：[http://web.stanford.edu/class/cs245/](http://web.stanford.edu/class/cs245/)
+
+<br/>
+
+如果想接触数据库的实践，强烈推荐斯坦福大学的 CS346: Database System Implementation。翻译过来就是【数据库系统实现】。这门课程带你从底层实现一个数据库！
+
+![cs346](src/cs346.png)
+
+传送门：[https://web.stanford.edu/class/cs346/2015/](https://web.stanford.edu/class/cs346/2015/)
+
+<br/>
+
+同时，中国大学MOOC平台的两门课程，分别是“数据库系统（上）：模型与语言”和“数据库系统（下）：管理与技术”。
+
+传送门：
+
+[https://www.icourse163.org/course/HIT-1001516002](https://www.icourse163.org/course/HIT-1001516002)
+
+[https://www.icourse163.org/course/HIT-1001578001](https://www.icourse163.org/course/HIT-1001578001)
+
+<br/>
+
+### 4. 并行计算基础
 
 我上学的年代，并行计算还不是计算机专业必学的内容。但现在，并行计算已经无处不在了。时代发展太快了，计算机专业的同学已经必学并行计算了。
 
-关于并行计算，分布式系统相关的入门书籍，有一本非常著名。也有中文版，叫《数据密集型应用系统设计》
+关于在线课程，我推荐斯坦福大学的课程 CS149：PARALLEL COMPUTING
+![cs149](src/cs149.png)
+
+传送门：[http://cs149.stanford.edu/fall19/](http://cs149.stanford.edu/fall19/)
+
+<br/>
+
+分布式系统相关的书籍，有一本非常著名。也有中文版，叫《数据密集型应用系统设计》
 
 ![diaa](src/diaa.png)
 
@@ -420,14 +457,7 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 <br/>
 
-如果对课程资料感兴趣，我推荐斯坦福大学的课程 CS149：PARALLEL COMPUTING
-![cs149](src/cs149.png)
-
-传送门：[http://cs149.stanford.edu/fall19/](http://cs149.stanford.edu/fall19/)
-
-<br/>
-
-**5. 人工智能基础**
+### 5. 人工智能基础
 
 作为一个人工智能专业的学习路径，终于出现人工智能啦！
 
@@ -455,6 +485,8 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 传送门：[https://stanford-cs221.github.io/spring2020/](https://stanford-cs221.github.io/spring2020/)
 
+<br/>
+
 或者，EdX 上有一门课程，我学过，是以这本书为纲的，我觉得挺不错的。可以免费试听。
 
 ![aiedx](src/aiedx.png)
@@ -463,13 +495,13 @@ MIT 的官方地址在[这里](https://ocw.mit.edu/courses/mathematics/18-06-lin
 
 <br/>
 
-#### 第三年：机器学习
+## 第三年：机器学习
 
 现在，是时候深入学习当下人工智能领域最主流的方法：机器学习和深度学习了。
 
 <br/>
 
-**1. 机器学习 + 深度学习**
+### 1. 机器学习 + 深度学习
 
 机器学习领域最著名的课程，就是斯坦福大学的 CS229 了。Andrew Ng 在 Coursera 上大名鼎鼎的《机器学习》课程，就是这门 CS 229 的简化。
 
@@ -527,7 +559,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**2. 数据科学基础**
+### 2. 数据科学基础
 
 其实，数据科学和基础的机器学习算法的应用有很多重合的地方。在这里，想强调一点，对于使用 Python 做机器学习，有一些基础的库需要大家熟练了解，主要就是 numpy，pandas，包括大家如果做可视化的话，需要使用 matplotlib。对于这些内容的学习，推荐一本书：Python for Data Analysis
 
@@ -539,7 +571,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**3. 凸优化**
+### 3. 凸优化
 
 学习了机器学习，大家就会知道，大多数机器学习方法都是要求解一个最优函数。其中就需要的一个相对比较专门的数学基础：凸优化。
 
@@ -551,7 +583,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**4. 概率图模型**
+### 4. 概率图模型
 
 概率图模型也是深入理解很多人工智能方法的利器，在图像识别，自然语言处理领域都有非常多的应用。我研究生时期的毕业课题，是做虚拟动作识别，也需要使用概率图模型。
 
@@ -569,7 +601,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**5. 数据挖掘**
+### 5. 数据挖掘
 
 数据挖掘主要是对大规模数据进行处理的。在数据的聚类分析，大规模的监督学习，包括推荐系统等领域，都有广泛应用。
 
@@ -581,7 +613,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-#### 第四年：专有领域学习
+## 第四年：专有领域学习
 
 机器学习方法是领域相关的。在不同的领域，有很多专有的方法，包括专门的研究对象，需要进一步学习。
 
@@ -589,7 +621,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**1. 卷积神经网络和计算机视觉**
+### 1. 卷积神经网络和计算机视觉
 
 计算机视觉近乎是现在人工智能被应用最广泛的领域了，从人脸识别到 OCR，从无人驾驶到各种工业机器人的智能系统。
 
@@ -601,7 +633,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**2. 自然语言处理**
+### 2. 自然语言处理
 
 当下人工智能另外一个应用非常广泛的应用领域，就是自然语言处理了。
 
@@ -621,7 +653,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**3. 机器学习在金融领域的应用**
+### 3. 机器学习在金融领域的应用
 
 人工智能在金融领域的应用也是一个重要的趋势。但是通常，在计算机专业中，不是被特别强调。毕竟大多数计算机专业的学生还是要去 IT 大厂，而不是华尔街。
 
@@ -633,7 +665,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**4. 机器学习在生物医学医药领域的应用**
+### 4. 机器学习在生物医学医药领域的应用
 
 同样，机器学习在医学医药领域也有了越来越多的应用。只不过通常计算机专业的同学不很了解这方面。而是相反的，很多医学医药领域的人，会来学习人工智能的知识，进而应用在自己的领域，这种情况更多一些。
 
@@ -649,7 +681,7 @@ Andrew Ng 后来创办了 deeplearning.ai 后，在 Coursera 上开设了一个�
 
 <br/>
 
-**5. Kaggle**
+### 5. Kaggle
 
 当然了，学习到这里，大家已经可以（其实早就可以了）去参加 Kaggle 的竞赛了。在 Kaggle 上，会有大量真实的数据供大家实验，让大家尝试解决“真实的问题”。虽然在这类平台上竞技，其实和解决真实的问题还是有差距，但也比使用虚拟的数据，或者仅仅是学习原理，强太多。
 
